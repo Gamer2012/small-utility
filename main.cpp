@@ -22,7 +22,7 @@ int main() {
 		cout << "success";
 	}
 	else {
-		perror("Error: ");
+		perror("Error");
 	}
 	return 0;
 }
