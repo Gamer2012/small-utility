@@ -1,4 +1,4 @@
-.main.cpp.swp
-.main.cpp.un~
-main.cpp~
-a.exe
+*.swp
+*.un~
+*.cpp~
+*.exe
