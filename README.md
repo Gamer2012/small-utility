@@ -6,4 +6,6 @@ maybe a small music player..? <br>
 nevermind, i‘ll translate a mass renamer written in c# / batch renamer
 
 TODO: <br>
-- f
+- batch renaming
+- history to undo / redo
+- gui (probably with imgui)
